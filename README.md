@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @JoshLG18
-- 👀 I’m interested in data science and data analytics
-- 🌱 I’m currently learning data science within python
+- 👋 Hi, I’m @Josh Le Grice
+- 👀 I’m an aspiring data scientist/analyst
 - 📫 How to reach me joshualegrice@gmail.com
