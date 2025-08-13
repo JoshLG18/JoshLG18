@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Josh Le Grice
-- 👀 I’m an aspiring data scientist/analyst
-- 📫 How to reach me joshualegrice@gmail.com
+
